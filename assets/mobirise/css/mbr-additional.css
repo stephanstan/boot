@@ -1113,3 +1113,28 @@ section.lazy-placeholder:after {
 .cid-rUAQ1wEWgI {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rUAYz6LWaB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rUAYz6LWaB h3 {
+  text-align: center;
+}
+.cid-rUAYz6LWaB .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rUAYz6LWaB .mbr-content-text {
+  color: #767676;
+}
+.cid-rUAYz6LWaB .panel-item {
+  background: #ffffff;
+}
+.cid-rUAYz6LWaB .card {
+  word-wrap: break-word;
+}
+.cid-rUAYz6LWaB .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
